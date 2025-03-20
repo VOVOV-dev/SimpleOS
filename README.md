@@ -1,4 +1,4 @@
-Slides for OS@SWU
+Course Repo for OS@SWU
 
 Course Reference:
 
