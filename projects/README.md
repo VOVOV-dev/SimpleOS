@@ -27,4 +27,5 @@ Note: the report template can be found under this folder
 
 ## Project Schedule (Keep on updating)
 
-- **P1**: Implement a simple `cat` utility
+- **P1**: Implement a simple `cat` utility [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-utilities/wcat)
+
