@@ -7,7 +7,7 @@ You need to prepare the following setups.
 - Linux environment (WSL or VM)
 - C toolchain
 - make/cmake
-- Source Code: [https://github.com/remzi-arpacidusseau/ostep-projects](https://github.com/qyliu-hkust/ostep-projects)
+- Source Code: https://github.com/qyliu-hkust/ostep-projects
 
 ## Requirements
 What should you submit? 
@@ -28,4 +28,5 @@ Note: the report template can be found under this folder
 ## Project Schedule (Keep on updating)
 
 - **P1**: Implement a simple `cat` utility [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-utilities/wcat)
+
 
