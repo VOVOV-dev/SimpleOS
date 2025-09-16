@@ -1,0 +1,63 @@
+\documentclass[11pt,letterpaper]{article}
+
+% Load package
+\usepackage{report}
+
+%--------------------------------------%
+% Custom commands include:             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Include an image:                    %
+% \diagram{height}{align}{file}        %
+%                                      %
+% height: a number representing mm     %
+% align: left, center, or right        %
+% file: file name without extension    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Add a numbered question:             %
+% \question{text}                      %
+% \questiond[lines]{file}{width}{text} %
+%                                      %
+% lines: # of lines of text to wrap    %
+% file: file name without extension    %
+% width: a % of textwidth for image    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Add a lettered option/question part: %
+% \option[vspace]{text}                %
+%                                      %
+% vspace: added space above the option %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Add a blank line in text:            %
+% \blankline{width}                    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Add an arc symbol in math:           %
+% \arc{notation}                       %
+%--------------------------------------%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%--------------------------------------%
+% To reset the question counter:       %
+% \setcounter{qcounter}{0}             %
+%                                      %
+% To reset the option counter:         %
+% \setcounter{acounter}{0}             %
+%--------------------------------------%
+
+% Set title and course name
+\settitle{An In-depth Evaluation Report for Coffee Machine}
+\setsubtitle{Operating System (Summer)} 
+\setauthor{Dr.~Cat (ID: 20000000)}
+
+\begin{document}
+
+% Create title and add proper header for first page
+\maketitle
+\thispagestyle{first}
+
+\section{Introduction to Coffee Machine} % or Analyze, Experiment, etc.
+
+\section{Hacking into Coffee Machines}
+
+\section{Discussions on Espresso v.s.~Americano}
+
+\section{Conclusion}
+
+\end{document}
