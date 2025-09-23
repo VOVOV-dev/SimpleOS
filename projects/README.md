@@ -30,6 +30,7 @@ If you want to use Word, just make the report similar to `main.pdf`.
 ## Project Schedule (Keep on updating)
 
 - **P1**: Implement a simple `cat` utility [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-utilities/mycat)
+- **P2**: Implement a simple `hello world` utility into xv6 [Instructions](https://github.com/qyliu-hkust/ostep-projects/blob/master/INSTALL-xv6.md)
 
 
 
