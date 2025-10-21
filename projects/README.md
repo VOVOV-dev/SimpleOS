@@ -31,7 +31,8 @@ If you want to use Word, just make the report similar to `main.pdf`.
 
 - **P1**: Implement a simple `cat` utility [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-utilities/mycat)
 - **P2**: Implement a simple `hello world` utility into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/hi-xv6)
-- **P2**: Implement a `getreadcount` system call into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-xv6)
+- **P3**: Implement a `getreadcount` system call into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-xv6)
+- **P4**: Implement a `proclist` system call and `ps` command into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/ps-xv6)
 
 
 
