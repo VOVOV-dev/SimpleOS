@@ -1,4 +1,4 @@
-# OS Projects Guidelines for SWU@Summer Term
+# OS Projects Guidelines for SWU@Fall Term
 
 ## Setups
 Basically, we follow the project settings (some are modified) of [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/). 
@@ -36,6 +36,7 @@ If you want to use Word, just make the report similar to `main.pdf`.
 - **P5**: Simulate a lottery scheduler in Python [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/scheduling-sim-lottery)
 - **P6**: Implement a lottery scheduler in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/scheduling-xv6-lottery)
 - **P7**: Implement null pointer dereference checking in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/vm-xv6-intro)
+
 
 
 
