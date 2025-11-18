@@ -33,6 +33,10 @@ If you want to use Word, just make the report similar to `main.pdf`.
 - **P2**: Implement a simple `hello world` utility into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/hi-xv6)
 - **P3**: Implement a `getreadcount` system call into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/initial-xv6)
 - **P4**: Implement a `proclist` system call and `ps` command into xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/ps-xv6)
+- **P5**: Simulate a lottery scheduler in Python [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/scheduling-sim-lottery)
+- **P6**: Implement a lottery scheduler in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/scheduling-xv6-lottery)
+- **P7**: Implement zero-pointer dereference checking in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/vm-xv6-intro)
+- 
 
 
 
