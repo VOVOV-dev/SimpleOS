@@ -1,4 +1,4 @@
-# OS Projects Guidelines for SWU@Fall Term
+# OS Projects Guidelines for SWU@Spring Term
 
 ## Setups
 Basically, we follow the project settings (some are modified) of [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/). 
@@ -37,6 +37,7 @@ If you want to use Word, just make the report similar to `main.pdf`.
 - **P6**: Implement a lottery scheduler in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/scheduling-xv6-lottery)
 - **P7**: Implement null pointer dereference checking in xv6 [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/vm-xv6-intro)
 - **P8**: Write code to analyze the TLB size of your system [Reference](https://en.algorithmica.org/hpc/) [Project Folder](https://github.com/qyliu-hkust/ostep-projects/tree/master/tlb-est)
+
 
 
 
