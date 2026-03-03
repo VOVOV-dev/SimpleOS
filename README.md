@@ -11,7 +11,12 @@ Check my homepage here :)
 
 1. Operating System Concepts (10-th Edition) 
 2. OSTEP
-3. 现代操作系统：原理与实现
+3. 现代操作系统：原理与实现（current best Chinese OS textbook）
 
-### TBD
+### Slides:
 
+Check [here](https://github.com/qyliu-hkust/SimpleOS/tree/main/slides)
+
+### Projects:
+
+Check [here](https://github.com/qyliu-hkust/SimpleOS/tree/main/projects)
